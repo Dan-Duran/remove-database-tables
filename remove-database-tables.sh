@@ -1,3 +1,9 @@
+######################################
+########## Remove DB Tables ##########
+####### Dan Duran - GetCyber #########
+## Subscribe: Youtube.com/@GetCyber ##
+######################################
+
 #!/bin/bash
 
 read -p "Enter hostname: " hostname
